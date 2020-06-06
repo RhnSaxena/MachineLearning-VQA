@@ -59,6 +59,7 @@ p.description {
   padding: 4vh;
   font-family: Lato;
   border-radius: 25px;
+  box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.5);
 }
 
 @font-face {
