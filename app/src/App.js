@@ -123,9 +123,9 @@ function App() {
       <div className="app-container">
         {!isEmbedded && (
           <>
-            <h1>CS314b:Machine Learning</h1>
+            <h1>Visual QA</h1>
             <p className="description">
-              <h3>Visual QA</h3>
+              <h3>CS314b:Machine Learning</h3>
               <b>Created by Rohan, Rishav and Abhishek.</b>
             </p>
             <hr></hr>
