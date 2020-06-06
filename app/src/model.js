@@ -3,7 +3,7 @@ import * as tf from "@tensorflow/tfjs";
 import { WORD_INDEX, ANSWERS } from "./constants";
 
 export const loadModelPromise = tf
-  .loadLayersModel("../MLModel/model.json")
+  .loadLayersModel("/model.json")
   .then((model) => {
     return model;
   });
